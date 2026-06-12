@@ -1,0 +1,14 @@
+D:\Minas_work\A_LearningPath\Important Topicssssssss\Backend Frameworks\C-Sharp\Route Course\03- C# OOP\Session-01\Assignment\Assignment-1\Assignment-1\bin\Debug\net10.0\Assignment-1.exe
+D:\Minas_work\A_LearningPath\Important Topicssssssss\Backend Frameworks\C-Sharp\Route Course\03- C# OOP\Session-01\Assignment\Assignment-1\Assignment-1\bin\Debug\net10.0\Assignment-1.deps.json
+D:\Minas_work\A_LearningPath\Important Topicssssssss\Backend Frameworks\C-Sharp\Route Course\03- C# OOP\Session-01\Assignment\Assignment-1\Assignment-1\bin\Debug\net10.0\Assignment-1.runtimeconfig.json
+D:\Minas_work\A_LearningPath\Important Topicssssssss\Backend Frameworks\C-Sharp\Route Course\03- C# OOP\Session-01\Assignment\Assignment-1\Assignment-1\bin\Debug\net10.0\Assignment-1.dll
+D:\Minas_work\A_LearningPath\Important Topicssssssss\Backend Frameworks\C-Sharp\Route Course\03- C# OOP\Session-01\Assignment\Assignment-1\Assignment-1\bin\Debug\net10.0\Assignment-1.pdb
+D:\Minas_work\A_LearningPath\Important Topicssssssss\Backend Frameworks\C-Sharp\Route Course\03- C# OOP\Session-01\Assignment\Assignment-1\Assignment-1\obj\Debug\net10.0\Assignment-1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Minas_work\A_LearningPath\Important Topicssssssss\Backend Frameworks\C-Sharp\Route Course\03- C# OOP\Session-01\Assignment\Assignment-1\Assignment-1\obj\Debug\net10.0\Assignment-1.AssemblyInfoInputs.cache
+D:\Minas_work\A_LearningPath\Important Topicssssssss\Backend Frameworks\C-Sharp\Route Course\03- C# OOP\Session-01\Assignment\Assignment-1\Assignment-1\obj\Debug\net10.0\Assignment-1.AssemblyInfo.cs
+D:\Minas_work\A_LearningPath\Important Topicssssssss\Backend Frameworks\C-Sharp\Route Course\03- C# OOP\Session-01\Assignment\Assignment-1\Assignment-1\obj\Debug\net10.0\Assignment-1.csproj.CoreCompileInputs.cache
+D:\Minas_work\A_LearningPath\Important Topicssssssss\Backend Frameworks\C-Sharp\Route Course\03- C# OOP\Session-01\Assignment\Assignment-1\Assignment-1\obj\Debug\net10.0\Assignment-1.dll
+D:\Minas_work\A_LearningPath\Important Topicssssssss\Backend Frameworks\C-Sharp\Route Course\03- C# OOP\Session-01\Assignment\Assignment-1\Assignment-1\obj\Debug\net10.0\refint\Assignment-1.dll
+D:\Minas_work\A_LearningPath\Important Topicssssssss\Backend Frameworks\C-Sharp\Route Course\03- C# OOP\Session-01\Assignment\Assignment-1\Assignment-1\obj\Debug\net10.0\Assignment-1.pdb
+D:\Minas_work\A_LearningPath\Important Topicssssssss\Backend Frameworks\C-Sharp\Route Course\03- C# OOP\Session-01\Assignment\Assignment-1\Assignment-1\obj\Debug\net10.0\Assignment-1.genruntimeconfig.cache
+D:\Minas_work\A_LearningPath\Important Topicssssssss\Backend Frameworks\C-Sharp\Route Course\03- C# OOP\Session-01\Assignment\Assignment-1\Assignment-1\obj\Debug\net10.0\ref\Assignment-1.dll
